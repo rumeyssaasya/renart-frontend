@@ -1,0 +1,61 @@
+@import '../../styles/font.css';
+
+.product-name {
+    font-family: 'Montserrat';
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.product-price {
+    font-family: 'Montserrat';
+    font-size: 15px;
+    font-weight: 500;
+
+}
+
+.color-text {
+    font-family: 'Avenir';
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.ring-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    /* width={200} height={200} style={{ borderRadius: '20px' }}
+ */
+}
+
+p {
+    width: max-content;
+}
+
+.ring-button-color-select-group {
+    display: flex;
+    gap: 4px;
+    width: max-content;
+}
+
+.ring-color-name {
+    font-size: 12px;
+    margin-top: 4px;
+    color: #333;
+}
+
+.star-score {
+    width: max-content;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    justify-content: center;
+}
+
+.popularity-out-of-five {
+    font-family: 'Avenir-Book';
+    font-size: 14px;
+    display: flex;
+    width: max-content;
+    padding: 5px;
+    margin-top: 8px;
+}
