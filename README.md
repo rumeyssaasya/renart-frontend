@@ -1,4 +1,4 @@
-# 💍 Product Listing App - Frontend
+# 💍 Product List App - Frontend
 
 This is the **frontend** of the Product Listing Application built with **React + TypeScript + Vite**. It displays a list of engagement rings using a responsive carousel and allows filtering and sorting based on price and popularity.
 
