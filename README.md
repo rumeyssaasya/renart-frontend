@@ -23,12 +23,10 @@ This is the **frontend** of the Product Listing Application built with **React +
 
 ### 🚀 Getting Started
 
+![image](https://github.com/user-attachments/assets/5dadab24-3493-4c3c-89e8-1a5a4b29f4a6)
+
 ```bash
 git clone https://github.com/your-username/product-listing-frontend.git
 cd product-listing-frontend
 npm install
 npm run dev
-
-
-![image](https://github.com/user-attachments/assets/d12ea7ad-42d9-493a-a5ba-e6cc8bc2571a)
-
